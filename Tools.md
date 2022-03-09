@@ -52,7 +52,9 @@
     
     - grep, awk, xargs, cat, less, head, tail
     - [vim](https://www.vim.org/)
-- **Misc IT & Management Tools**
+- **Misc IT & Management\Monitoring Tools**
     
     - [Nagios](https://www.nagios.org/)
     - [Openldap](https://www.openldap.org/)
+    - [Elk Stack](https://www.elastic.co/start)
+    - [Prometheus](https://prometheus.io/)
